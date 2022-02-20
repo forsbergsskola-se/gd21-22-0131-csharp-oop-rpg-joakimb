@@ -1,6 +1,4 @@
-﻿
-
-class P1MethodsJO
+﻿class P1MethodsJO
 {
 
     static void Main()
